@@ -4,7 +4,6 @@ import asyncio
 # 设置运行端口
 os.environ.update({'OLLAMA_HOST': '0.0.0.0:6006'})
 
-
 async def run_process(cmd, verb=True, path=None):
   if path:
     os.chdir(path)
