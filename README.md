@@ -1,8 +1,9 @@
 # autodl
 
-为autodl.com和codewithgpu.com准备的镜像
+1. `ollama安装.ipynb`和`ollama运行.ipynb`是为autodl.com和codewithgpu.com准备的镜像
+2. `docker-compose下载.ipynb`是使用kaggle和skopeo来快速下载并打包docker镜像的方法（ubuntu22.04以上）
 
-更新日志:
+## 更新日志:
 
 - 2024.5.5 初始化
 
